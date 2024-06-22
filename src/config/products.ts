@@ -1,6 +1,6 @@
 export const PRODUCT_PRICES = {
     material: {
-        silicon: 0,
+        silicone: 0,
         polycarbonate: 5_00,
     },
     finish: {
